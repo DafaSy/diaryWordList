@@ -15,7 +15,7 @@ db = client[DB_NAME]
 
 # cxn_str = 'mongodb+srv://TEST3:TEST3@cluster0.yac8dnl.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp'
 # client = MongoClient(cxn_str)
-# app=Flask(__name__)
+app=Flask(__name__)
 
 # db = client.dictionary
 
